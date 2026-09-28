@@ -1,3 +1,4 @@
+This project has been created as part of the 42 curriculum by yaabed
 # Libft
 
 Libft is the first project of the 42 Core curriculum.
